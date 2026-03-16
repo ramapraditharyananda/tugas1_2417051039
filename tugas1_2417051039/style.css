@@ -85,6 +85,12 @@ a:active{
 transform:scale(0.95);
 }
 
+.video-box{
+display:flex;
+justify-content:center;
+margin-top:15px;
+}
+
 .gallery-section{
 margin-top:20px;
 color:white;
